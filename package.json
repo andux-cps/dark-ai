@@ -1,0 +1,12 @@
+{
+  "name": "dark-ai",
+  "version": "1.0.0",
+  "description": "DARK AI chatbot backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
